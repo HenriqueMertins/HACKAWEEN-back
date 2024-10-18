@@ -1,0 +1,21 @@
+{
+  "name": "hackaween-back",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no Hackaween, evento organizado por SENAC Pelotas, onde equipes têm 12 horas para solucionar um desafio proposto. Os melhores projetos são avaliados por uma banca de especialistas de empresas consolidadas, e os três primeiros lugares recebem premiação em dinheiro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2",
+    "mysql2": "^3.11.3",
+    "sqlite3": "^5.1.7"
+  }
+}
